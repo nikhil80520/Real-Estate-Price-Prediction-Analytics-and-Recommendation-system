@@ -1,6 +1,6 @@
-### Real Estate Price Prediction and Analytics
+### Real Estate Price Prediction, Analytics and Recommendation System
 
-Welcome to our Real Estate Price Prediction and Analytics project! 🏡💼
+Welcome to our Real Estate Price Prediction, Analytics project and Recommendation system! 🏡💼
 
 #### Overview:
 
