@@ -1,0 +1,5 @@
+scikit-learn
+plotly
+streamlit
+matplotlib
+wordcloud
